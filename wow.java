@@ -9,4 +9,4 @@ student
 teacher
 
 https://www
-.naver
+.naver.com
