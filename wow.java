@@ -8,4 +8,4 @@ hello
 student
 teacher
 
-www
+https://www
