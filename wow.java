@@ -10,3 +10,4 @@ teacher
 
 https://www
 .naver.com
+remote
